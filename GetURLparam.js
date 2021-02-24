@@ -14,7 +14,7 @@
     if(skuURL){
     if(ver == "aRS9rDrgV5BF4isyJiJifT51AABgBLl0J0dNsmo7lJ6"){
         document.getElementById("sku").setAttribute('value', skuURL)
-        document.getElementById("DontHack").innerHTML = '<div></div>';
+        document.getElementById("DontHack").remove();
                                                             }else{
         // no se ha recibido ningun parametro por GET
         
