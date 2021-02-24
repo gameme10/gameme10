@@ -11,7 +11,7 @@
     //recogemos los valores que nos envia la URL en variables para trabajar con ellas
     var skuURL = getParameterByName('skuURL');
     var ver = getParameterByName('ver');
-    if(skuURL)
+    if(skuURL){
     if(ver == "aRS9rDrgV5BF4isyJiJifT51AABgBLl0J0dNsmo7lJ6"){document.getElementById("pagar").value = skuURL}else{
         // no se ha recibido ningun parametro por GET
         document.getElementById("pagar").innerHTML = '';
