@@ -12,7 +12,7 @@
     var skuURL = getParameterByName('skuURL');
     var ver = getParameterByName('ver');
     if(skuURL){
-    if(ver == "aRS9rDrgV5BF4isyJiJifT51AABgBLl0J0dNsmo7lJ6"){
+    if(ver == "bruh1212"){
         document.getElementById("sku").value = skuURL
         document.getElementById("DontHack").remove();
                                                             }else{
