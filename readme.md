@@ -24,6 +24,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
 ### GitHub Stats
 
 [![Stats A](https://github-readme-stats.vercel.app/api/?username=gameme10)]()
