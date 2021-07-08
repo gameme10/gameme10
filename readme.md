@@ -1,7 +1,7 @@
-### Hola, Soy Gameme_10 👋 [mas nombres aqui](names)
+### Hola, Soy Gameme_10 👋 [mas nombres aqui](https://www.programmingtrue.dev/p/mis-nombres-de-usuario.html)
 
-[Sitio Web](website)
-[Twitter](twitter)
+[Sitio Web](https://www.programmingtrue.dev)
+[Twitter](https://www.programmingtrue.dev)
 
 ## ¡Soy un DEVeloper, y activista de ciberseguridad!
 
@@ -9,12 +9,12 @@
 
 ---
 
-### 📕 Ultimas publicaciones en [ProgrammingTrue](website)
+### 📕 Ultimas publicaciones en [ProgrammingTrue](https://www.programmingtrue.dev)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [mas...](website)
+➡️ [mas...](https://www.programmingtrue.dev)
 
 ---
 
@@ -25,14 +25,6 @@
 
 ### GitHub Stats
 
-[Stats A](statsa)
+[Stats A](https://github-readme-stats.vercel.app/api/?username=gameme10)
 
-[Stats B](statsb)
-
-
-
-[website]: https://www.programmingtrue.dev
-[names]: https://www.programmingtrue.dev/p/mis-nombres-de-usuario.html
-[twitter]: https://www.programmingtrue.dev
-[statsa]: https://github-readme-stats.vercel.app/api/?username=gameme10
-[statsb]: https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10
+[Stats B](https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10)
