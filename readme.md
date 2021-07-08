@@ -25,14 +25,14 @@
 
 ### GitHub Stats
 
-[Stats A](statsa)]
+[Stats A](statsa)
 
-[Stats B](statsb)]
+[Stats B](statsb)
 
 
 
 [website]: https://www.programmingtrue.dev
 [names]: https://www.programmingtrue.dev/p/mis-nombres-de-usuario.html
 [twitter]: https://www.programmingtrue.dev
-[statsa]: https://github-readme-stats.vercel.app/api/?username=gameme10)
-[statsb]: https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10)
+[statsa]: https://github-readme-stats.vercel.app/api/?username=gameme10
+[statsb]: https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10
