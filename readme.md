@@ -25,6 +25,6 @@
 
 ### GitHub Stats
 
-[Stats A](https://github-readme-stats.vercel.app/api/?username=gameme10)
+[![Stats A](https://github-readme-stats.vercel.app/api/?username=gameme10)]()
 
-[Stats B](https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10)
+[![Stats B](https://github-readme-stats.vercel.app/api/top-langs/?username=gameme10)]()
